@@ -1,5 +1,5 @@
 # FloodDetection
-Solution for FloodDetection problems from Interfuze
+Solution for FloodDetection problems
 
 Please change the file path or location under the App.config file before running the solution or application.
 
